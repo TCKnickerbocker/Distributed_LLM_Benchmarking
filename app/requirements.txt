@@ -1,0 +1,11 @@
+redis
+PyTorch
+huggingface
+numpy
+pandas
+docker
+kubernetes
+fastapi
+transformers
+uvicorn
+pydantic

@@ -1,6 +1,0 @@
-redis
-PyTorch
-huggingface
-numpy
-pandas
-docker
